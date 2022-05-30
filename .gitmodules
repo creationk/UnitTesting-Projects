@@ -1,3 +1,6 @@
 [submodule "JUnit-Projects"]
 	path = JUnit-Projects
 	url = https://github.com/creationk/JUnit-Projects.git
+[submodule "Mockito-Projects"]
+	path = Mockito-Projects
+	url = https://github.com/creationk/Mockito-Projects.git
