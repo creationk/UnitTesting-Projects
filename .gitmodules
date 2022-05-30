@@ -1,0 +1,3 @@
+[submodule "JUnit-Projects"]
+	path = JUnit-Projects
+	url = https://github.com/creationk/JUnit-Projects.git
